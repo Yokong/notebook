@@ -1,3 +1,10 @@
+## 为什么选择Golang
+
+* 开发效率高 (完整的开发工程链tools, test, benchmark, builtin)
+* 部署简单 (Compile once, run everywhere)
+* 良好的native http库以及模版引擎 (无需任何第三方框架)
+* 优秀的并发模型
+
 ## Golang 中的map
 
 > Go 语言采用的是哈希查找表, 并且使用链表解决哈希冲突
