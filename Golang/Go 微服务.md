@@ -1,3 +1,4 @@
+![](https://github.com/Yokong/notebook/blob/master/Golang/images/bilibili%20Go%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.png)
 ## 互联网架构演进之路
 
 单体架构->垂直架构->SOA架构(面向服务)->微服务架构
@@ -25,11 +26,11 @@
 
 ## Go 微服务架构最佳实践
 
-构架: go-micro
-协议: protobuf
-服务发现: consul/etcd
-配置管理: etcd
-服务监控: prometheus, grafana
+构架: go-micro  
+协议: protobuf  
+服务发现: consul/etcd  
+配置管理: etcd  
+服务监控: prometheus, grafana  
 
 ## 微服务架构6大核心点
 
